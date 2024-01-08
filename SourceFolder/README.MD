@@ -4,10 +4,6 @@ A regression analysis establishes the relationship between one or more independe
 In the regression model the dependent variable has continuous numerical value.
 
 
-## Getting Started
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
-
-
 ## Understanding Project Structure
 ```
 Regression_Module
